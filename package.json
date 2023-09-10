@@ -1,0 +1,13 @@
+{
+  "name": "wysimark-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "git add . && git commit -m \"Commit on $(date \"+%Y-%m-%d %H:%M:%S\")\" && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
